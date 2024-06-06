@@ -12,6 +12,7 @@ pipeline {
     }
 
 
+
     post {
         success {
             echo 'Script Ran Successfully'
